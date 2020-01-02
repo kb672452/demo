@@ -1,4 +1,4 @@
 This is a simple demo project file
 Updating Readme.md
 
-Recent changes here, updates from branch
+This change is from master branch
